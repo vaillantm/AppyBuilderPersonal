@@ -2,7 +2,7 @@
 
 # Welcome to AppyBuilder Personal version
 
-## Introductions
+## Introduction
 
 Learn more about [AppyBuilder here:](http://help.AppyBuilder.com) or here: http://Community.AppyBuilder.com
 
